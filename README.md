@@ -4,6 +4,10 @@ API REST em Kotlin + Spring Boot que estende um authserver com autenticação JW
 
 Projeto da atividade de backend (PUC-PR).
 
+## Demonstração
+
+Vídeo de apresentação: https://youtu.be/OLOlMvAantU
+
 ## Pilha
 
 - Kotlin + Spring Boot 4
